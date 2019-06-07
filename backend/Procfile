@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT chat_media_4376.wsgi:application

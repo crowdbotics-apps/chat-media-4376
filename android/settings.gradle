@@ -1,0 +1,3 @@
+rootProject.name = 'chat_media_4376'
+
+include ':app'
